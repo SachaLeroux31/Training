@@ -7,7 +7,7 @@ pageextension 50120 CustomerListExt extends "Customer List"
     trigger OnOpenPage();
     begin
         Message('App published: Hello world');
-        Message('App published: Hello world JFP modifié JFP');
-        Message('App published: Hello world ISL modifié JFP');
+        Message('App published: Hello world JFP');
+        Message('App published: Hello world zzz');
     end;
 }
